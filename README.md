@@ -30,7 +30,7 @@
 
 ## Github ⭐
 
-![DenysonJ](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysonJ&layout=dark)
+![DenysonJ](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysonJ)
 
 
 ---
