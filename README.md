@@ -12,20 +12,24 @@
 ## Minhas Habilidades
 
 **Linguagens**
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=white)
 
 **Banco de Dados**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=white)
 
 **Frameworks/Bibliotecas**
+
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=white)
 
 ## Github ⭐
+
 [![DenysonJ](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysonJ&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
