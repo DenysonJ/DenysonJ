@@ -6,8 +6,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software e qualidade de software.
 - 🎓 Formado em Ciência da Computação na UFRGS.
-- 💼 Trabalhando como Quality Engineer na Appmax.
-- 🌱 Aprendendo mais sobre K6 e CodecptJS.
+- 💼 Trabalhando como Software Engineer na Appmax.
+- 🌱 Aprendendo mais sobre PHP, Laravel, VueJS e Arquitetura de Software.
 
 ## Minhas Habilidades
 
@@ -26,6 +26,7 @@
 
 **Frameworks/Bibliotecas**
 
+![Laravel](https://img.shields.io/badge/-Laravel-333333?styel=flat&logo=laravel&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress&logoColor=white)
 
 ## Github ⭐
