@@ -7,12 +7,13 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software e qualidade de software.
 - 🎓 Formado em Ciência da Computação na UFRGS.
 - 💼 Trabalhando como Software Engineer na Appmax.
-- 🌱 Aprendendo mais sobre PHP, Laravel, VueJS e Arquitetura de Software.
+- 🌱 Aprendendo mais sobre Go, PHP, Laravel, VueJS e Arquitetura de Software.
 
 ## Minhas Habilidades
 
 **Linguagens**
 
+![Go](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)
